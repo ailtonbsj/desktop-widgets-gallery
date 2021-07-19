@@ -1,5 +1,7 @@
 # Qt and GTK+2/3 Widgets Viewer
 
+![](X11_stack.png)
+
 ## Qt Widgets Gallery
 
 Required packages: `python3`
